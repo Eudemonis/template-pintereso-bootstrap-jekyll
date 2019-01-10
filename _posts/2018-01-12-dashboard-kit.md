@@ -1,8 +1,9 @@
 ---
-title:  "Dashboard Kit"
+title:  "Newt"
 metadate: "hide"
 categories: [ Premium, UI, Graphics ]
-image: "/assets/images/dashboard-kit.jpg"
-visit: "https://crmrkt.com/pwNyQ4"
+excerpt: "Worrying is suffering twice"
+visit: "https://www.goodreads.com/work/quotes/50435175-fantastic-beasts-and-where-to-find-them-the-original-screenplay"
 ---
-130+ beautiful and modern modules for prototyping, design & developing amazing dashboard apps.
+"My philosophy is that worrying means you suffer twice."
+~ Newt Scamander from the movie Fantastic Beasts and Where to Find Them. 
