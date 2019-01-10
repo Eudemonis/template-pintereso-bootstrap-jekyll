@@ -9,6 +9,15 @@
         <div class="more mr-2 mb-2">
             <i class="fa fa-arrow-circle-right text-muted" aria-hidden="true"></i>
         </div>
+
+        <div class="showcat">
+            {% for category in post.categories %}
+              <a class="btn btn-sm btn-danger mb-1" href="{{site.baseurl}}/categories.html#{{ category | downcase }}">
+                {{ category }}
+              </a>
+            {% endfor %}
+        </div>
+
         </a>
 
     {% endunless %}
