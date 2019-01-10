@@ -1,13 +1,13 @@
-<div class="card card-pin  raco" {% unless post.image %} style="min-height:250px;background:#eee;" {% endunless %}>
+<div class="card card-pin  raco" {% unless post.image %} style="min-height:250px;background:#fff;" {% endunless %}>
 
     {% unless post.image %}
 
        <a href="{{site.baseurl}}{{post.url}}"  class="d-block p-3">
-        <h2 class="card-title title text-white mb-3">{{ post.title }}</h2>
+        <h2 class="card-title title text-muted mb-3">{{ post.title }}</h2>
            <!--<small class="d-block text-muted">{{ post.content | strip_html | truncatewords:25 }}</small>-->
            <small class="d-block text-muted">{{ post.excerpt }}</small>
         <div class="more mr-2 mb-2">
-            <i class="fa fa-arrow-circle-right text-white" aria-hidden="true"></i>
+            <i class="fa fa-arrow-circle-right text-muted" aria-hidden="true"></i>
         </div>
         </a>
 
