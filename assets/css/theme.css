@@ -1,3 +1,30 @@
+@font-face {
+font-family: "Lato-Regular";
+src: url("fonts/Lato-Regular.eot");
+src:
+url("fonts/Lato-Regular.woff") format("woff"),
+url("fonts/Lato-Regular.otf") format("opentype"),
+url("fonts/Lato-Regular.svg#filename") format("svg");
+}
+
+@font-face {
+font-family: "Merriweather-Regular";
+src: url("fonts/Merriweather-Regular.eot");
+src:
+url("fonts/Merriweather-Regular.woff") format("woff"),
+url("fonts/Merriweather-Regular.otf") format("opentype"),
+url("fonts/Merriweather-Regular.svg#filename") format("svg");
+}
+
+@font-face {
+font-family: "Karla-Regular";
+src: url("fonts/karla-regular-webfont.eot");
+src:
+url("fonts/karla-regular-webfont.woff") format("woff"),
+url("fonts/Karla-Regular.otf") format("opentype"),
+url("fonts/Karla-Regular.svg#filename") format("svg");
+}
+
 body {
 	padding-top:70px;
 }
@@ -134,7 +161,7 @@ footer.footer {
     color: #333;
     font-size: 1em;
     font-weight: 700;
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-family: -apple-system, lato-regular, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
     font-style:normal;
 }
 .card-pin .more a {
@@ -243,9 +270,9 @@ article .card-body {
     position: relative;
 }
 .card-pin.raco:hover .fa:before {
-    
+
 }
-.car-pin.raco:hover .fa:before {    
+.car-pin.raco:hover .fa:before {
      -webkit-animation: pulse 2s ease-in;
     -moz-animation: pulse 2s ease-in;
      animation: pulse 2s ease-in;
@@ -286,13 +313,13 @@ article .card-body {
     height:60px;
     line-height:60px;
     border-radius:50%;
-    
+
 }
 .PageNavigation a:hover {
     color:#333;
 }
-a.prev {    
-    left: 100px;    
+a.prev {
+    left: 100px;
 }
 a.next {
     right: 100px;
