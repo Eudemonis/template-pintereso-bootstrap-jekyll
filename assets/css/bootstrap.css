@@ -7018,6 +7018,7 @@ button.bg-graylight:focus {
 /* line 6, node_modules/bootstrap/scss/mixins/_background-variant.scss */
 .bg-gray200 {
   background-color: #fff !important; }
+  /* This is the backrgound color of the post page. Not the background colour of the text, but that of the rest of the site*/
 
 /* line 17, node_modules/bootstrap/scss/mixins/_hover.scss */
 a.bg-gray200:hover, a.bg-gray200:focus,
