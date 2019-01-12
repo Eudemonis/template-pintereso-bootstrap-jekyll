@@ -12,3 +12,4 @@ Excerpt: Assuming a set of facts to hold truth makes it easier to go trough dail
 
 <p style="color: red; font-family: 'Times new roman';"> This is what I call being realistic, even though these things might stop being true at one point in time. </p>
 
+<p style="color: #f2cf4a; font-family: Babas; font-size: 2em;">To doubt these things, leads often to an endless stream of thoughts that end in <abbr>nowhere-land</abbr> with the only result being the urge to go to sleep and never wake up. </p>
