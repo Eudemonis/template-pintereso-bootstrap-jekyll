@@ -6,11 +6,16 @@ Excerpt: Assuming a set of facts to hold truth makes it easier to go trough dail
 ---
 
 
-<p style="margin-left:1em; padding: 0.5em 1em 0.5em 3em; border-width: 2px; border-color: #2b0a78; border-style: dotted; color: 'purple'; font-family: 'Consolas'; align: right; "> Knowing things, making decisions and acting means one is assuming a set of facts to be true.  The Gospel of Doubt can only go so far. Some practical things in this practical reality need to be taken for granted. To assume these things to be true it is easier to act and decide what to do next.</p>
+<p style="margin-left:1em; padding: 0.5em 1em 0.5em 3em; border-width: 2px; border-color: #2b0a78; border-style: dotted; color: 'purple'; font-family: 'Consolas'; align: right; "> Knowing things, making decisions and acting means one is assuming a set of facts to be true.  The Gospel of Doubt can only go so far. Some practical things in this practical reality need to be taken for granted. By assuming some things to be true it is easier to act and decide what to do next.</p>
+
+So whih things would one consider to be true?
 
 <p class="text-danger">* Tomorrow there will be another day. </p>
 
 <p class="lead">* Life will go on.</p>
+
+Every human is a human being with all its lovely inconvenient perks.
+
 
 <p style="color: red; font-family: 'Calibri';"> This is what I call being realistic, even though these things might stop being true at one point in time. </p>
 
