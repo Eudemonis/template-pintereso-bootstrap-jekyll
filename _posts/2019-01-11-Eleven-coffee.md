@@ -4,11 +4,11 @@ metadate: "hide"
 categories: [ Fiction ]
 excerpt: Eleven drank a cup of coffee facing the window of the café. Soft jazz played in the background, its melody soothing. The warmth of her coffee was a welcoming feeling after the chilling winds that were characteristic around Central Station. The café was in front of the main entrance and gave Eleven the opportunity to watch the crowd from a comfortable place. She saw all kinds of different people passing by. Hundreds of humans, individuals, groups or communities passed her view. This mass is called society. These hundreds of bodies house the mind that forms opinions and calls forth actions. Society represents the fruits of our decisions, needs, values and morals. All these individual bodies call something inside themselves I.
 ---
-<div style='float:left; width:45%;'>
+<div style='float:left; width:50%;'>
     Eleven drank a cup of coffee facing the window of the café. Soft jazz played in the background, its melody soothing. The warmth of her coffee was a welcoming feeling after the chilling winds that were characteristic around Central Station. The café was in front of the main entrance and gave Eleven the opportunity to watch the crowd from a comfortable place. She saw all kinds of different people passing by. Hundreds of humans, individuals, groups or communities passed her view.
 </div>
 
-<div style='float:left; width:45%; margin-left:5px'>
+<div style='float:left; width:50%; margin-left:5px'>
     _This mass is called society. These hundreds of bodies house the mind that forms opinions and calls forth actions. Society represents the fruits of our decisions, needs, values and morals. All these individual bodies call something inside themselves_ I. _All these minds scream, rant, sing, praise, hope and doubt. One thought could be the exact opposite of the thought of a neighbour, but it would almost never collide._ Eleven felt amazed that this massive body of individuals did
 </div>
 
