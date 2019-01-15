@@ -12,7 +12,7 @@ So which things would one consider to be true?
 
 <p class="text-danger">* Tomorrow there will be another day. </p>
 
-<p class="lead">* Life will go on.</p>
+* Life will go on.
 
 Every human is a human being with all its lovely inconvenient perks.
 
