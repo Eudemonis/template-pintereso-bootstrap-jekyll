@@ -2,6 +2,7 @@
 title:  "Reality check"
 metadate: "hide"
 categories: [ Information ]
+color: "#eee"
 Excerpt: Assuming a set of facts to hold truth makes it easier to go trough daily life.
 ---
 
